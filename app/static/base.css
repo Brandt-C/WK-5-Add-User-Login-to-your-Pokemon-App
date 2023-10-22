@@ -1,0 +1,33 @@
+body {
+    background-image: url("base\ image.jpg");
+  }
+
+.custom-heading {
+    font-style: italic;
+    font-size: 70px; 
+    color:black;
+    text-align: center;
+    padding-top: 60px
+}
+
+.custom-heading-1 {
+    background-color:pink;
+    color:black;
+    font-size: 30px; 
+    text-align: center;
+}
+
+.custom-heading-2 {
+    background-color:pink;
+    color:black;
+    font-size: 30px; 
+    text-align: center;
+}
+
+
+.custom-heading-3 {
+    background-color:pink;
+    color:black;
+    font-size: 30px; 
+    text-align: center;
+}

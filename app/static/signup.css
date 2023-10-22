@@ -1,0 +1,59 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control-label {
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+a {
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.GeneratedMarquee {
+    font-family:'Comic Sans MS';
+    font-size:2em;
+    line-height:1.3em;
+    color:#996600;
+    background-color:pink;
+    padding:1.5em;
+    }
+    
+    .bottom-left{
+        position: fixed;
+        left: 20px;
+        bottom:20px;
+    }
+    
+    .bottom-right{
+        position: fixed;
+        right: 20px;
+        bottom:20px;
+    }
