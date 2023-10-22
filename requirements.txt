@@ -5,7 +5,7 @@ click==8.1.7
 colorama==0.4.6
 dnspython==2.4.2
 email-validator==2.0.0.post2
-Flask==3.0.0
+Flask
 Flask-Login==0.6.2
 Flask-Migrate==4.0.5
 Flask-Moment==1.0.5
